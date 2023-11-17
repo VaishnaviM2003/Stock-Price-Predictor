@@ -3,9 +3,9 @@ In this project, we will predict the stock prices of gold. We will develop out s
 
 ## Usage
 
-1.Input the stock code when prompted.
-2.Visualize historical stock prices through plots and histograms.
-3.Train and evaluate machine learning models for stock price prediction.
+- Input the stock code when prompted.
+- Visualize historical stock prices through plots and histograms.
+- Train and evaluate machine learning models for stock price prediction.
 
 ## Data 
 
